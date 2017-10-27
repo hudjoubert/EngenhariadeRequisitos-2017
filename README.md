@@ -1,1 +1,3 @@
-# EngenhariadeRequisitos-2017
+# Engenharia de Requisitos-2017
+Professor Doria
+Unicarioca
